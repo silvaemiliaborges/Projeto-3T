@@ -1,0 +1,50 @@
+.DivAluno {
+    border-color: blue;
+    border: solid;
+    
+    /* justify-content: space-evenly; */
+    /* text-align: ; */
+}
+
+.Foto {
+    /* border-color: blue;
+    border: solid; */
+    flex-direction: column;
+    
+}
+
+.DivAluno{
+    margin-top: 50px;
+}
+
+.DadosAluno{
+    margin-left: 20px;
+    line-height: 0.9;
+}
+
+.Foto{
+    height: 300px;
+    width: 250px;
+
+}
+
+.ocorrencia{
+<<<<<<< HEAD
+    margin-left: 5%;
+    /* width: 10%; */
+}
+=======
+    align-items: center;
+    justify-content: center;
+    margin-left: 550px;
+}
+
+.box{
+   
+}
+#card{
+    justify-content: center;
+    text-align: center;
+
+}
+>>>>>>> 4d5879f6fbf44e733f9961e27ae13e1a554ccd5e
